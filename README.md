@@ -65,11 +65,23 @@ I am a passionate **Full Stack Developer** with expertise in both front-end and 
 [![expense-tracker](https://github-readme-stats.vercel.app/api/pin/?username=SalemNusair&repo=expense-tracker&theme=dark)](https://github.com/SalemNusair/expense-tracker)
 [![TODO-App](https://github-readme-stats.vercel.app/api/pin/?username=SalemNusair&repo=TODO-App&theme=dark)](https://github.com/SalemNusair/TODO-App)
 
-## 📊 GitHub Stats
+###
 
-| GitHub Stats | GitHub Streak | Most Used Languages |
-|--------------|----------------|---------------------|
-| ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SalemNusair&show_icons=true&theme=dark) | ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=SalemNusair&theme=dark) | ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs?username=SalemNusair&layout=compact&langs_count=8&card_width=320&theme=dark) |
+<h3 align="left">🔥   My Stats :</h3>
+
+###
+
+| GitHub Stats | Most Used Languages |
+|--------------|---------------------|
+| ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SalemNusair&show_icons=true&theme=dark)  | ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs?username=SalemNusair&layout=compact&langs_count=8&card_width=320&theme=dark) |
+
+
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=SalemNusair&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
+</div>
+
+###
 
 
 ## 📫 Let's Connect
